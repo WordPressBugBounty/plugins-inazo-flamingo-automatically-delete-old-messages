@@ -1,0 +1,1 @@
+# plugins-inazo-flamingo-automatically-delete-old-messages
